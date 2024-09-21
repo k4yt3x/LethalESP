@@ -1,6 +1,6 @@
 # LethalESP
 
-A simple implementation of Extra-Sensory Perception (ESP) cheat for Lethal Company.
+A simple implementation of Extra-Sensory Perception (ESP) cheat for Lethal Company. View the [Demo Video](https://github.com/k4yt3x/LethalESP).
 
 ![screenshot](https://github.com/user-attachments/assets/84f67bdd-63c3-4942-ab98-895dbe6964e6)
 
